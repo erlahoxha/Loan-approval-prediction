@@ -15,6 +15,12 @@ Using the Kaggle Loan Approval Classification dataset, this project demonstrates
 
 ---
 
+**Dataset:**  
+[Loan Approval Data](https://www.kaggle.com/datasets/zhijinzhai/loandata)
+
+---
+
+
 ## 📊 Sample Results
 
 | k-Value | Test Accuracy |
